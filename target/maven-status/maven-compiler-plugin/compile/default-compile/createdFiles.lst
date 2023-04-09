@@ -1,0 +1,11 @@
+com\ei\math\arithmetic\text\ArithmeticHtml.class
+com\ei\math\arithmetic\operator\AritmeticAbsOper.class
+com\ei\math\arithmetic\ArithmeticResult.class
+com\ei\math\arithmetic\Arithmetic.class
+com\ei\math\arithmetic\util\ArithmeticPartStepMethos.class
+com\ei\math\arithmetic\util\ArithmeticUtil.class
+com\ei\math\arithmetic\ArithmeticRegex.class
+com\ei\math\arithmetic\registory\ArithmeticMessage.class
+com\ei\math\arithmetic\text\ArithmeticText.class
+com\ei\math\arithmetic\operator\ArithmeticSum.class
+com\ei\math\arithmetic\text\ArithmeticFormatter.class
